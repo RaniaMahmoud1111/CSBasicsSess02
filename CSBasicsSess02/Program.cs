@@ -124,6 +124,20 @@
 
         #endregion
 
+        #region q 10:  What will be the output of the C# code given below?
+
+        ////int num = 1, z = 5;
+
+        ////if (!(num <= 0))//means is greater than 0
+        ////    Console.WriteLine(++num + z++ + " " + ++z);//2+5  store z=6   7 
+        ////else
+        ////    Console.WriteLine(--num + z-- + " " + --z);
+
+
+        // the output = 7 7 
+
+        #endregion
+
 
 
 
