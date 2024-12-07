@@ -118,6 +118,12 @@
 
         #endregion
 
+        #region q 09: Which of the following is the correct output for the C# code given below? Console.WriteLine(13 / 2 + " " + 13 % 2);
+
+        //result= 6 1
+
+        #endregion
+
 
 
 
