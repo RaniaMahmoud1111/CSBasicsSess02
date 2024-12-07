@@ -34,6 +34,18 @@
 
         #endregion
 
+        #region q 04:Write C# program that Extract a substring from a given string.
+
+        //string str = "you will win there no options else !";
+        //string substr;
+
+        //int startPos = 12;
+        //int substrLen = 18;
+
+        //substr= str.Substring(startPos, substrLen);
+        //Console.WriteLine($"The orginal string : {str} \n The subString : {substr}");
+
+        #endregion
 
 
 
