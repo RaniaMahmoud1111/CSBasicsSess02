@@ -1,5 +1,20 @@
 ﻿internal class Program
 {
+    class Student
+    {
+        public int age { get; set; }
+        public string name { get; set; }
+
+
+        public override bool Equals(object? obj)
+        {
+            if (obj == null) return false;
+            Student s = (Student)obj;
+            return this.age == s.age && this.name == s.name;
+        }
+
+    }
+
     private static void Main(string[] args)
     {
 
@@ -87,6 +102,19 @@
         //Console.WriteLine($"Now your FullName = {fn} {ln} .");
         //string full = fn + ln;
         //Console.WriteLine($" in another way \n Now your FullName = {full} .");
+
+        #endregion
+
+        #region  q 08:  Which of the following statements is correct about the C#.NET code snippet given below?
+
+        //int d;
+        //d = Convert.ToInt32(!(30 < 20));
+        //Console.WriteLine(d);
+
+        //b)	A value 1 will be assigned to d.
+        // we can convert true to 1 and false to zero 
+
+
 
         #endregion
 
