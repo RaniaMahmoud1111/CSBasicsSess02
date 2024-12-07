@@ -20,6 +20,20 @@
         #endregion
 
 
+        #region q 03:  Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+
+        //double num1 = 98.34;
+        //double num2 = 7.04f;
+
+        //double result = num1 - num2;
+        //Console.WriteLine($"Result= {result}");
+
+        // these variables will stored in stack as  the are value type 
+        // the arithmetic operation will execute from left to right the is assigned to the result at the left 
+        // since the assign operator works from right to left .
+
+        #endregion
+
 
 
 
