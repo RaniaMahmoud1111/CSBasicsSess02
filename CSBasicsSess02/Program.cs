@@ -49,6 +49,20 @@
 
 
 
+        #region q 05: Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+
+        //int number = 5;
+        //int number2 = number;
+        //number = 9;
+        //Console.WriteLine($"number= {number} and number2= {number2}");
+
+        // after update the value of number , number2 still equal the old value since when we  assign number to number2 we only take a copy of it so we cannot depends on its change after assgin as they are value type
+
+
+        #endregion
+
+
+
 
 
 
