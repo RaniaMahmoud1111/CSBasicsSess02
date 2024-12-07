@@ -77,6 +77,19 @@
         #endregion
 
 
+        #region q 07: Write C# program that take two string variables and print them as one variable 
+
+
+        //Console.Write("enter your first name ");
+        //string fn=Console.ReadLine();
+        //Console.Write("enter your last name ");
+        //string ln = Console.ReadLine();
+        //Console.WriteLine($"Now your FullName = {fn} {ln} .");
+        //string full = fn + ln;
+        //Console.WriteLine($" in another way \n Now your FullName = {full} .");
+
+        #endregion
+
 
 
 
