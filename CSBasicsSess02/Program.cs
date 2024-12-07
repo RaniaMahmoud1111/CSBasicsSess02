@@ -63,6 +63,19 @@
 
 
 
+        #region q 06: Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+
+        //Student st1 = new Student() {age=20,name="Rania" };
+        //Student st2 = new Student() { age=21, name="Nour"};
+
+        //st1=st2;//
+        // Console.WriteLine($"st1Name= {st1.name} , st2Name= {st2.name}");
+        // st1.name = "Ahmed";
+        // Console.WriteLine($"st1Name= {st1.name} , st2Name= {st2.name}");
+        // the two variables(pointers) become hold the same reference so they both listen to any modification in any each other
+
+        #endregion
+
 
 
 
